@@ -1,10 +1,10 @@
 {
 "users":[{
-  "userId":123,
+  "id":123,
   "userName":"Gaurav"
 },
 {
-  "userId":124,
+  "id":124,
   "userName":"Mohit"
 }
 ]
