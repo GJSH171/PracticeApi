@@ -1,5 +1,6 @@
 {
-"category":[{
+"category":[
+  {
   "id":1,
   "categoryId" : 1,
   "categoryName":"car",
@@ -14,7 +15,8 @@
       "subcategoryName": "suv"
     }
   ]
-},
+}
+  ,
 {
   "id":2,
   "categoryId" : 2,
