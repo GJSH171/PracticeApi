@@ -5,7 +5,7 @@
   "categoryName":"car",
   "subcategory" : [
     {
-      "id":01
+      "id":01,
     "subcategoryId" : 11,
       "subcategoryName": "sidan"
     },
@@ -20,7 +20,7 @@
   "categoryId" : 2,
   "categoryName":"Bike",
   "subcategory": [
-    
+    {
       "id":01
     "subcategoryId" : 21,
       "subcategoryName": "sports"
